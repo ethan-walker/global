@@ -1,0 +1,32 @@
+/* 👋 Hi there!*/
+
+:root {
+	--red: #f2502c;
+	--orange: #f97f0f;
+	--yellow: #f2bd00;
+	--green: #1bc47d;
+	--blue: #18a0fb;
+	--purple: #7b61ff;
+	--pink: #ee46d3;
+	--black: #333333;
+}
+
+html, body {
+  height: 100%;
+}
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+* {
+  margin: 0;
+}
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+}
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+input, button, textarea, select {
+  font: inherit;
+}
