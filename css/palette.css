@@ -1,1 +1,11 @@
 /* 🎨 Colours to use */
+:root {
+	--colour-red: #fb3c3c;
+	--colour-orange: #f97f0f;
+	--colour-yellow: #f2bd00;
+	--colour-green: #1bc55c;
+	--colour-blue: #18a0fb;
+	--colour-purple: #ac4ef9;
+	--colour-pink: #ee46d3;
+	--colour-black: #333333;
+}
